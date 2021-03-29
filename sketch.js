@@ -32,8 +32,8 @@ function setup(){
 function draw() {
 
     background(255);
-    cat.debug = true
-    mouse.debug = true
+    cat.debug = false
+    mouse.debug = false
     
     //Write condition here to evalute if tom and jerry collide
 
